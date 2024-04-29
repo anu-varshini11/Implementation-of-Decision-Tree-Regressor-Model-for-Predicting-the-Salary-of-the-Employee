@@ -65,17 +65,31 @@ r2
 dt.predict([[5,6]])
 ```
 ## Output:
+### data.head()
+
 ![alt text](<Screenshot 2024-04-06 114048.png>)
+
+### data.info()
 
 ![alt text](<Screenshot 2024-04-06 114056.png>)
 
+### data.isnull().sum()
+
 ![alt text](<Screenshot 2024-04-06 114102.png>)
+
+### data.head()
 
 ![alt text](<Screenshot 2024-04-06 114108.png>)
 
+### mse
+
 ![alt text](<Screenshot 2024-04-06 114115.png>)
 
+### r2
+
 ![alt text](<Screenshot 2024-04-06 114120.png>)
+
+### dt.predict
 
 ![alt text](<Screenshot 2024-04-06 114134.png>)
 ## Result:
